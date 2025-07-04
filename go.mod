@@ -1,4 +1,4 @@
-module github.com/hashicorp/mdns
+module github.com/vera-byte/mdns
 
 go 1.23.0
 
